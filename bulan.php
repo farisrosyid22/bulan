@@ -5,6 +5,7 @@
 </head>
 </title>
 </html>
+<div align = center>
 <?php
    // error_reporting (E_ALL^ (E_NOTICE|E_WARNING));
     //$QueryState = $_GET['state'];
@@ -44,3 +45,4 @@
 	
 
 ?>
+</div>
